@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-gisela-weidmann
-Demo web para Consultorio Odontológico Gisela Weidmann — diseñada por eterlab.
+# Consultorio Odontológico Gisela Weidmann
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
